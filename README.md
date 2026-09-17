@@ -15,8 +15,6 @@ It will provide up-to-date data, methodological resources, and policy-relevant i
 </p>
 
 
-TACTIC will generate new evidence and refine methods to address pressing research questions, including the role of individual emitters, the impact of different emission scenarios, and the development of indicators relevant to health and policy. The project will also conduct case studies on neglected health outcomes-like infectious diseases, kidney disease, mental health, and maternal health-highlighting their unequal impacts on vulnerable populations.
-
 Through the development of communication guidelines and actionable policy insights, TACTIC aims to bridge the gap between science and policy, enhance capacity building in low-resource settings, and ultimately increase knowledge and awareness about the health consequences of climate change.
 
 ![](figures/partners_logos.jpg)
