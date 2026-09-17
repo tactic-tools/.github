@@ -8,10 +8,6 @@ TACTIC (HealTh ImpAct Toolkit for Climate Change Attribution) is an innovative i
 
 Co-produced with key stakeholders and informed by communities directly affected by climate-driven health issues, the toolkit will be organized in thematic hubs and accessible via a user-friendly website platform. 
 
-<p align="center">
-  <img src="figures/Page 2.png" />
-</p>
-
 It will provide up-to-date data, methodological resources, and policy-relevant information to facilitate robust health attribution studies-especially in regions most vulnerable to climate change, such as Southern Africa, the Andes, and the Mediterranean.
 
 <p align="center">
