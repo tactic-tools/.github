@@ -18,3 +18,8 @@ It will provide up-to-date data, methodological resources, and policy-relevant i
 Through the development of communication guidelines and actionable policy insights, TACTIC aims to bridge the gap between science and policy, enhance capacity building in low-resource settings, and ultimately increase knowledge and awareness about the health consequences of climate change.
 
 ![](figures/partners_logos.jpg)
+
+
+
+This work is supported by the Wellcome Trust grant number 309112/Z/24/Z
+<a href='https://www.bsc.es/es'><img src='figures/wellcome-trust-logo.png' align="right" height="80" width="80" /></a> 
